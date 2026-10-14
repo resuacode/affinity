@@ -9,10 +9,31 @@ Affinity es una suite de diseño de Canva que reúne en **una sola aplicación**
 | Estudio | Para qué sirve | Equivalente habitual |
 | --- | --- | --- |
 | **Píxel** | Retoque fotográfico, pintura digital, composición de imágenes | Photoshop |
-| **Vectorial** | Logotipos, ilustraciones, iconos, formas escalables | Illustrator |
-| **Maquetación (Layout)** | Documentos de varias páginas, folletos, revistas, libros | InDesign |
+| **Vector** | Logotipos, ilustraciones, iconos, formas escalables | Illustrator |
+| **Diseño** (Layout) | Documentos de varias páginas, folletos, revistas, libros | InDesign |
 
 ![Selector de estudios de Affinity: Píxel, Vectorial y Maquetación](/img/capturas/conoce-affinity/01-estudios.png)
+
+:::info[La pestaña de Canva IA Studio]
+
+El Estudio de Canva IA en Affinity integra herramientas de inteligencia artificial directamente dentro de la aplicación Affinity by Canva.
+
+Requisitos de acceso
+
+• Cuenta necesaria: Debes iniciar sesión con una cuenta de Canva.
+• Plan: Las herramientas de diseño, vectores y píxeles son gratuitas con una cuenta estándar, pero el Estudio de Canva IA requiere un plan premium de Canva (como Canva Pro).
+
+Principales herramientas del Estudio de Canva IA
+
+• Eliminar fondo: Aísla de forma automática el sujeto principal de una imagen.
+• Seleccionar objeto: Detecta y genera selecciones y máscaras inteligentes en detalles complejos (como cabello o bordes).
+• Crear mapa de profundidad / Desenfoque de retrato: Añade profundidad estilo DSLR y selecciona elementos basándose en la profundidad de campo.
+• Iluminación vertical: Modifica o ajusta la iluminación del sujeto después de tomar la fotografía.
+• Colorear: Restaura el color en imágenes en blanco y negro.
+• Superresolución: Mejora la resolución y nitidez de las imágenes sin perder detalle.
+• Expansión generativa: Extiende los bordes de una imagen de manera inteligente.
+• Generación de imágenes y vectores: Crea gráficos rasterizados, vectores o modelos 3D a partir de descripciones de texto (prompts).
+:::
 
 ## Qué puedes crear
 
