@@ -14,9 +14,7 @@ Al abrir un documento verás estas zonas principales (los nombres pueden variar 
 6. **Paneles (derecha)**: Capas, Color, Muestras, Carácter, Párrafo, Efectos, Estilos, Historial, Navegador.
 7. **Barra de estado**: guías rápidas y atajos de la herramienta.
 
-:::warning[📸 Captura pendiente · C03]
-Interfaz con las zonas numeradas. Instrucciones en `CAPTURAS.md`.
-:::
+![Interfaz de Affinity con las zonas principales numeradas del 1 al 7](/img/capturas/conoce-affinity/03-interfaz-zonas.png)
 
 ## Paneles imprescindibles
 

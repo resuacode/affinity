@@ -12,9 +12,7 @@ Affinity es una suite de diseño de Canva que reúne en **una sola aplicación**
 | **Vectorial** | Logotipos, ilustraciones, iconos, formas escalables | Illustrator |
 | **Maquetación (Layout)** | Documentos de varias páginas, folletos, revistas, libros | InDesign |
 
-:::warning[📸 Captura pendiente · C01]
-Selector de estudios. Instrucciones en `CAPTURAS.md`.
-:::
+![Selector de estudios de Affinity: Píxel, Vectorial y Maquetación](/img/capturas/conoce-affinity/01-estudios.png)
 
 ## Qué puedes crear
 
@@ -34,6 +32,4 @@ Selector de estudios. Instrucciones en `CAPTURAS.md`.
 - **Modo de color**: RGB para pantalla, CMYK para imprenta.
 - **Edición no destructiva**: capas, máscaras y capas de ajuste permiten modificar sin perder el original.
 
-:::warning[📸 Captura pendiente · C02]
-Raster frente a vector. Instrucciones en `CAPTURAS.md`.
-:::
+![Comparación de una imagen raster y una vectorial ampliadas](/img/capturas/conoce-affinity/02-raster-vs-vector.png)
