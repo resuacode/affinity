@@ -26,9 +26,7 @@ Al abrir un documento verás estas zonas principales (los nombres pueden variar 
 | **Efectos** | Sombras, resplandores, contornos |
 | **Transformar** | Posición y tamaño exactos |
 
-:::warning[📸 Captura pendiente · C04]
-Paneles de la derecha. Instrucciones en `CAPTURAS.md`.
-:::
+![Paneles de Capas, Color, Carácter y Transformar en Affinity](/img/capturas/conoce-affinity/04-paneles.png)
 
 ## Atajos básicos
 
