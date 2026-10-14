@@ -8,9 +8,8 @@ sidebar_position: 3
 
 **Archivo > Nuevo**: elige tamaño, unidades (mm), DPI (300 para imprenta), modo de color y sangrado.
 
-:::warning[📸 Captura pendiente · C06]
-Diálogo de documento nuevo. Instrucciones en `CAPTURAS.md`.
-:::
+![Diálogo de nuevo documento con tamaño, unidades, DPI, color y sangrado](/img/capturas/conoce-affinity/06-nuevo-documento.png)
+
 
 ## Herramientas más usadas
 
@@ -22,9 +21,8 @@ Diálogo de documento nuevo. Instrucciones en `CAPTURAS.md`.
 - **Pincel** (`B`): pintar sobre píxeles.
 - **Cuentagotas** (`I`): copia un color.
 
-:::warning[📸 Captura pendiente · C07]
-Barra de herramientas. Instrucciones en `CAPTURAS.md`.
-:::
+![Barra de herramientas de Affinity con las herramientas principales señaladas](/img/capturas/conoce-affinity/07-barra-herramientas.png)
+
 
 ## Capas
 
@@ -35,23 +33,20 @@ Cada elemento vive en una capa. Reglas prácticas:
 - Usa **máscaras** en vez de borrar.
 - Bloquea fondos y guías para no moverlos por accidente.
 
-:::warning[📸 Captura pendiente · C08]
-Panel Capas organizado. Instrucciones en `CAPTURAS.md`.
-:::
+![Panel Capas con capas con nombre, un grupo, una máscara y una capa bloqueada](/img/capturas/conoce-affinity/08-panel-capas.png)
+
 
 ## Alinear y distribuir
 
 Selecciona varios objetos y usa las opciones de **Alineación** de la barra de contexto. Activa el **ajuste (snapping)** para que los objetos se acoplen a guías y bordes.
 
-:::warning[📸 Captura pendiente · C09]
-Opciones de alineación. Instrucciones en `CAPTURAS.md`.
-:::
+![Opciones de alineación en la barra de contexto con varios objetos seleccionados](/img/capturas/conoce-affinity/09-alinear.png)
+
 
 ## Guardar y exportar
 
 - **Guardar** (`Ctrl+S`): formato nativo `.afdesign`, `.afphoto` o `.afpub`, o el formato unificado de la versión actual.
 - **Exportar**: PDF, PNG, JPG, SVG. Para imprenta, PDF con sangre.
 
-:::warning[📸 Captura pendiente · C10]
-Diálogo de exportación. Instrucciones en `CAPTURAS.md`.
-:::
+![Diálogo de exportación de Affinity con la lista de formatos](/img/capturas/conoce-affinity/10-exportar.png)
+
