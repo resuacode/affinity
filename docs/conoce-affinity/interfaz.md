@@ -20,11 +20,15 @@ Al abrir un documento verás estas zonas principales (los nombres pueden variar 
 
 | Panel | Uso |
 | --- | --- |
-| **Capas** | Ordenar, ocultar, bloquear, agrupar y aplicar máscaras |
 | **Color** | Elegir colores en RGB, CMYK u otros modelos |
+| **Muestras** | Ver y manipular colores y gradientes |
+| **Trazo** | Grosor, tipo de línea, flechas y guías de trazo |
+| **Capas** | Ordenar, ocultar, bloquear, agrupar y aplicar máscaras |
 | **Carácter / Párrafo** | Tipografía, tamaño, interlineado, alineación |
-| **Efectos** | Sombras, resplandores, contornos |
+| **Estilos de texto** | Estilos predefinidos para el texto |
 | **Transformar** | Posición y tamaño exactos |
+| **Navegador** | Vista general del documento y zoom rápido |
+| **Historial** | Deshacer y rehacer acciones recientes |
 
 ![Paneles de Capas, Color, Carácter y Transformar en Affinity](/img/capturas/conoce-affinity/04-paneles.png)
 
@@ -35,16 +39,17 @@ Al abrir un documento verás estas zonas principales (los nombres pueden variar 
 | Deshacer | `Ctrl+Z` | `Cmd+Z` |
 | Copiar / Pegar | `Ctrl+C` / `Ctrl+V` | `Cmd+C` / `Cmd+V` |
 | Zoom a ventana | `Ctrl+0` | `Cmd+0` |
-| Mover lienzo | `Espacio` + arrastrar | `Espacio` + arrastrar |
+| Mover lienzo | `Espacio` + arrastrar / Arrastrar pulsando la rueda del ratón | `Espacio` + arrastrar / Arrastrar pulsando la rueda del ratón |
 | Mostrar/ocultar guías | `Ctrl+;` | `Cmd+;` |
+| Mostrar/ocultar reglas | `Ctrl+R` | `Cmd+R` |
+| Mostrar/ocultar paneles | `Tab` | `Tab` |
+
 
 ## Ejercicio
 
 1. Crea un documento nuevo A4.
 2. Dibuja un rectángulo y un texto.
-3. Abre y cierra paneles desde el menú **Ver > Estudio**.
-4. Cambia entre estudios y observa cómo cambian las herramientas.
+3. Abre y cierra paneles desde la barra superior **Ventana > Texto**.
+4. Activa y desactiva paneles para ver cómo cambian.
 
-:::warning[📸 Captura pendiente · C05]
-Menú Ver > Estudio. Instrucciones en `CAPTURAS.md`.
-:::
+![Menú Ver > Estudio desplegado con la lista de paneles](/img/capturas/conoce-affinity/05-menu-ver-estudio.png)
